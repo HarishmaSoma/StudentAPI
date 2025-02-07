@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\soma.harishma01\\APIStudent\\StudentAPI\\StudentAPI.csproj": {}
+    "C:\\Users\\soma.harishma01\\Student\\StudentAPI\\StudentAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\soma.harishma01\\APIStudent\\StudentAPI\\StudentAPI.csproj": {
+    "C:\\Users\\soma.harishma01\\Student\\StudentAPI\\StudentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\soma.harishma01\\APIStudent\\StudentAPI\\StudentAPI.csproj",
+        "projectUniqueName": "C:\\Users\\soma.harishma01\\Student\\StudentAPI\\StudentAPI.csproj",
         "projectName": "StudentAPI",
-        "projectPath": "C:\\Users\\soma.harishma01\\APIStudent\\StudentAPI\\StudentAPI.csproj",
+        "projectPath": "C:\\Users\\soma.harishma01\\Student\\StudentAPI\\StudentAPI.csproj",
         "packagesPath": "C:\\Users\\soma.harishma01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\soma.harishma01\\APIStudent\\StudentAPI\\obj\\",
+        "outputPath": "C:\\Users\\soma.harishma01\\Student\\StudentAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\soma.harishma01\\AppData\\Roaming\\NuGet\\NuGet.Config"
